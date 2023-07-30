@@ -1,3 +1,14 @@
+<h1 align="center">Hey 👋, I'm Dhaval Patil</h1>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaval-patil21&label=Profile%20views&color=0e75b6&style=flat" alt="dhaval-patil21" /> </p>
+
+- 🌱 I’m currently learning **Backend Developer Skills**
+
+- 📫 How to reach me 
+-  dhavalpatil2003@gmail.com 
+- www.linkedin.com/in/dhaval-patil-82b34322b
+  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhaval_patil_2104) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhaval-patil-82b34322b) 
