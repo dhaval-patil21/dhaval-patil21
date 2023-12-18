@@ -10,6 +10,7 @@
 - 📫 How to reach me 
 -  dhavalpatil2003@gmail.com 
 - www.linkedin.com/in/dhaval-patil-82b34322b
+- https://dhavalpatil-portfolio.netlify.app/
   
 
 ## 🌐 Socials:
