@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Backend Developer Skills**
+
 
 - 📫 How to reach me 
 -  dhavalpatil2003@gmail.com 
